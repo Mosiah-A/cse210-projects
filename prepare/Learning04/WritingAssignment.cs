@@ -4,6 +4,7 @@ public class WritingAssignment : Assignment
 {
 
 // variable scoop
+
     //private string _studentName, _topic, _title;
     private string _title;
 

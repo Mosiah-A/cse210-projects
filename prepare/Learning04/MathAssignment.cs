@@ -5,7 +5,7 @@ public class MathAssignment : Assignment
 
 // variable scoop
 
-    // private string _studentName, _textbookSection, _topic, _problem;
+    //private string _studentName, _textbookSection, _topic, _problem;
     private string  _textbookSection, _problem;
 
 // Constructor
